@@ -1,0 +1,26 @@
+# Archivos de caché de Prolog
+*.qlf
+*.plt
+*.swp
+*.bak
+
+# Archivos de logs
+*.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de VS Code
+.vscode/
+*.code-workspace
+
+# Archivos de ejecución/compilación
+*.out
+*.exe
+
+# Archivos de entorno
+.env
+
+# Carpeta de documentación generada (si se usa)
+docs/build/
