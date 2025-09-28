@@ -43,10 +43,7 @@ practica2/
 │  └─ utils.pl            # Funciones auxiliares
 ├─ tests/
 │  └─ test_cases.pl       # Casos de prueba automatizados (PLUnit)
-└─ img/
-   ├─ caso1.png
-   ├─ caso2.png
-   └─ caso3.png
+
 ```
 
 ---
